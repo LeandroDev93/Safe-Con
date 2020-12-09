@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../img/photo_2.jpg);
+    background-attachment: fixed;
+}
+
+.telacadastro {
+    display: none;
+}
+
+.formulario {
+    position: relative;
+}
+
+.campo {
+    padding: 20px;
+}
+
+input {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.titulo {
+    margin-top: 2%;
+    margin-left: 2%;
+    position: relative;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+}
+
+.linha {
+    box-shadow: 2px 2px 2px black;
+}
+
+h5 {
+    font-style: italic;
+}
+
+.botao {
+    display: flex;
+    margin-left: 70%;
+    justify-content: space-between;
+    
+}
